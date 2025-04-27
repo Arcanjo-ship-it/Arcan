@@ -16,5 +16,5 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de miguelaarca
 
 ## Suporte
 
-Para suporte, mande um email para miguelaarcanjo57@gmail.com ou entre em nosso canal do Slack.
+Para suporte, mande um email para miguelaarcanjo57@gmail.com ou entre.
 
